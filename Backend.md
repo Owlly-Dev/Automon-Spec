@@ -10,6 +10,7 @@
 * must support scheduling of suite executions.
 
 ## Data Structure
+```ascii
  ┌────────────┐  has  ┌──────────┐
  │    Users   ├───────►   Roles  │
  └─────┬──────┘  one  └──────────┘
@@ -30,3 +31,4 @@
 ┌───────▼──────┐
 │  Test Cases  │
 └──────────────┘
+```
